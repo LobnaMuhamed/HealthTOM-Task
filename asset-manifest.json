@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/HealthTOM-Task/static/css/main.120aab3a.css",
+    "main.js": "/HealthTOM-Task/static/js/main.9e096beb.js",
+    "static/js/453.7406b4fa.chunk.js": "/HealthTOM-Task/static/js/453.7406b4fa.chunk.js",
+    "static/media/HealthTOM-Logo.png": "/HealthTOM-Task/static/media/HealthTOM-Logo.6862a050dc4a88db4964.png",
+    "index.html": "/HealthTOM-Task/index.html",
+    "main.120aab3a.css.map": "/HealthTOM-Task/static/css/main.120aab3a.css.map",
+    "main.9e096beb.js.map": "/HealthTOM-Task/static/js/main.9e096beb.js.map",
+    "453.7406b4fa.chunk.js.map": "/HealthTOM-Task/static/js/453.7406b4fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.120aab3a.css",
+    "static/js/main.9e096beb.js"
+  ]
+}
