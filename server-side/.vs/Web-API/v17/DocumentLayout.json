@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HealthTOM Task\\server-side\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A963D40-27F8-4CA5-9A40-F429B6DED83A}|Web-API\\Web-API.csproj|d:\\healthtom task\\server-side\\web-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A963D40-27F8-4CA5-9A40-F429B6DED83A}|Web-API\\Web-API.csproj|solutionrelative:web-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A963D40-27F8-4CA5-9A40-F429B6DED83A}|Web-API\\Web-API.csproj|d:\\healthtom task\\server-side\\web-api\\extensions\\swaggerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A963D40-27F8-4CA5-9A40-F429B6DED83A}|Web-API\\Web-API.csproj|solutionrelative:web-api\\extensions\\swaggerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A963D40-27F8-4CA5-9A40-F429B6DED83A}|Web-API\\Web-API.csproj|d:\\healthtom task\\server-side\\web-api\\extensions\\appconfigextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A963D40-27F8-4CA5-9A40-F429B6DED83A}|Web-API\\Web-API.csproj|solutionrelative:web-api\\extensions\\appconfigextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A963D40-27F8-4CA5-9A40-F429B6DED83A}|Web-API\\Web-API.csproj|d:\\healthtom task\\server-side\\web-api\\extensions\\identityextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A963D40-27F8-4CA5-9A40-F429B6DED83A}|Web-API\\Web-API.csproj|solutionrelative:web-api\\extensions\\identityextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A963D40-27F8-4CA5-9A40-F429B6DED83A}|Web-API\\Web-API.csproj|d:\\healthtom task\\server-side\\web-api\\extensions\\dapperextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A963D40-27F8-4CA5-9A40-F429B6DED83A}|Web-API\\Web-API.csproj|solutionrelative:web-api\\extensions\\dapperextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 276,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SwaggerExtension.cs",
+              "DocumentMoniker": "D:\\HealthTOM Task\\server-side\\Web-API\\Extensions\\SwaggerExtension.cs",
+              "RelativeDocumentMoniker": "Web-API\\Extensions\\SwaggerExtension.cs",
+              "ToolTip": "D:\\HealthTOM Task\\server-side\\Web-API\\Extensions\\SwaggerExtension.cs",
+              "RelativeToolTip": "Web-API\\Extensions\\SwaggerExtension.cs",
+              "ViewState": "AgIAAAcAAAAA/v////8PwBoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T02:26:57.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IdentityExtensions.cs",
+              "DocumentMoniker": "D:\\HealthTOM Task\\server-side\\Web-API\\Extensions\\IdentityExtensions.cs",
+              "RelativeDocumentMoniker": "Web-API\\Extensions\\IdentityExtensions.cs",
+              "ToolTip": "D:\\HealthTOM Task\\server-side\\Web-API\\Extensions\\IdentityExtensions.cs",
+              "RelativeToolTip": "Web-API\\Extensions\\IdentityExtensions.cs",
+              "ViewState": "AgIAAB8AAACAMzMzMzMXwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T02:26:52.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DapperExtensions.cs",
+              "DocumentMoniker": "D:\\HealthTOM Task\\server-side\\Web-API\\Extensions\\DapperExtensions.cs",
+              "RelativeDocumentMoniker": "Web-API\\Extensions\\DapperExtensions.cs",
+              "ToolTip": "D:\\HealthTOM Task\\server-side\\Web-API\\Extensions\\DapperExtensions.cs",
+              "RelativeToolTip": "Web-API\\Extensions\\DapperExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T02:26:50.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppConfigExtension.cs",
+              "DocumentMoniker": "D:\\HealthTOM Task\\server-side\\Web-API\\Extensions\\AppConfigExtension.cs",
+              "RelativeDocumentMoniker": "Web-API\\Extensions\\AppConfigExtension.cs",
+              "ToolTip": "D:\\HealthTOM Task\\server-side\\Web-API\\Extensions\\AppConfigExtension.cs",
+              "RelativeToolTip": "Web-API\\Extensions\\AppConfigExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T02:12:15.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HealthTOM Task\\server-side\\Web-API\\appsettings.json",
+              "RelativeDocumentMoniker": "Web-API\\appsettings.json",
+              "ToolTip": "D:\\HealthTOM Task\\server-side\\Web-API\\appsettings.json",
+              "RelativeToolTip": "Web-API\\appsettings.json",
+              "ViewState": "AgIAAAMAAAC0zMzMzIwrwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T00:43:01.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
